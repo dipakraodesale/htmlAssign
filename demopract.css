@@ -1,0 +1,129 @@
+
+.space
+{
+    width: 92%;
+    padding-left: 4%;
+}
+.page{
+    background-color:rgb(200, 223, 166);
+}
+.body{
+    background-color:rgb(186, 206, 156);
+}
+
+
+.logo
+{
+    width: 10%;
+    height:5%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    background-color:brown;
+    
+  }
+
+li{
+    margin:30px;
+    
+}
+
+li a{
+    color: orange;
+    text-decoration: none;
+}
+
+.image2
+{
+    margin-top: 20px;
+}
+
+.image3
+{
+    width: 100%;
+    height:40%;
+
+}
+
+.section1
+{
+    display: flex;
+}
+
+.subcart1
+{
+    width: 30%;
+    height: 20%;
+    margin-top: 2%;    
+    padding-left: 30px;
+    border: 4px;
+    background-color: white;
+}
+.subcart2
+{
+    width: 30%;
+    height: 20%;
+    margin: 2%;
+    border: 4px;
+    background-color: white;
+    padding-left: 30px;
+}
+
+
+.section2
+{
+    display: flex;
+    background-color: white;
+}
+
+.part1
+{
+    width: 50%;
+    padding: 15px;
+}
+
+.part2
+{
+    width: 50%;
+    padding: 15px;
+}
+
+.Menu{
+    list-style-type: none;
+    color: black;
+    background-color:pink;
+    display: block;
+    padding: 3px;
+    
+  }
+
+
+  li:hover
+  {
+      background-color:yellow;
+      color: yellowgreen;
+  }
+
+
+.galaryText h1{
+    text-align: center;
+  }
+  .box
+  {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .flex
+  {
+    width: 100%;
+  }
+
+  .flex img{
+    width: 100%;
+    height: 150px;
+  }
